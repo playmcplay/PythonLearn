@@ -9,3 +9,4 @@ with open("my.dat", "rb") as file:
     last_seven_bytes = file.read(7)
     utf8_string=last_seven_bytes.decode('utf8')
 print(utf8_string)
+544514566465456
